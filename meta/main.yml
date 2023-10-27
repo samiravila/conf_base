@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-        role_name: conf_base      
+  role_name: conf_base      
   author: samiravila
   description: Configuracao Base de usuarios, pacotes e hosts
   company: 4Linux
